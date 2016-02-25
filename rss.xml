@@ -4,8 +4,15 @@
         <description><![CDATA[hello_w0rld by @askraja]]></description>
         <link>https://thegrid.ai/askraja/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 06:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 06:45:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/askraja/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can You Put a Face to Big Data?]]></title>
+            <description><![CDATA[<article><h1>Can You Put a Face to Big Data?</h1><p>A version of this essay was originally published at Tech.pinions, a website dedicated to informed opinions, insight and perspective on the tech industry. One of the most popular buzzwords in tech is something called Big Data. However, trying to get a straight answer as to what Big Data is can be difficult.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98ee284526f9503ddf80b3266dad61fb7b8ab369.jpg"></article>]]></description>
+            <link>http://recode.net/2016/02/24/can-you-put-a-face-to-big-data/</link>
+            <guid isPermaLink="false">9ce050fb-7ec7-496f-b292-74134064a970</guid>
+            <pubDate>Thu, 25 Feb 2016 06:45:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google's New AI Can Tell Where Your Photo Was Taken Without Using Geotags]]></title>
             <description><![CDATA[<article><h1>Google's New AI Can Tell Where Your Photo Was Taken Without Using Geotags</h1><p>In case you didn't already feel like Google was a creepy stalker, its artificial intelligence tools are rapidly crossing over into uncanny. The latest one is PlaNet, a new deep-learning machine that specializes in figuring out where a photo was taken-using nothing but the image's pixels.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d243b857c879592b5d131f27f8f8637b17aab5eb.jpg"></article>]]></description>

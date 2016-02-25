@@ -1,20 +1,24 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0
-color:
-  saturation: 0
-  brandStrength: 0.9330649
-  lightness: 0.6825994
-  rhythmicContrast: 0
-layout_spectrum: 0.8555392
 name: '@askraja'
+favicon: null
+layout_spectrum: 0.7576
+typography_spectrum: 0.50475
+title: hello_w0rld by @askraja
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9330649
+  lightness: 0
+  saturation: 0.4441461
+  rhythmicContrast: 0.2142857
+purpose: []

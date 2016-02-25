@@ -1,14 +1,8 @@
 layout_spectrum: 0.8555392
 typography_spectrum: 0
 color:
-  saturation: 0.7663802
+  saturation: 0.4441461
   brandStrength: 0.9330649
-  lightness: 0.5128894
-  rhythmicContrast: 0.7040817
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+  lightness: 0
+  rhythmicContrast: 0.2142857
 name: '@askraja'

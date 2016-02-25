@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[@askraja]]></title>
+        <description><![CDATA[@askraja]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 25 Feb 2016 05:50:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is what The Grid's 'AI' website builder looks like]]></title>
+            <description><![CDATA[<article><h1>This is what The Grid's 'AI' website builder looks like</h1><p>You might have heard about The Grid - it's been endlessly running banner advertising on every tech website out there for the last few months. What you might not know is what it actually is. On first look at its landing page, I thought it wasn't real.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83b2aa2ed4d3dfb564bd08031ced26eeb33f48d5.jpg"></article>]]></description>
+            <link>http://thenextweb.com/dd/2015/07/31/this-is-what-the-grids-ai-website-builder-looks-like/#gref</link>
+            <guid isPermaLink="false">8d3dacfc-bf28-41a1-aee2-01c65489f515</guid>
+            <pubDate>Thu, 25 Feb 2016 05:50:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

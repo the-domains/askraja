@@ -4,8 +4,15 @@
         <description><![CDATA[hello_w0rld by @askraja]]></description>
         <link>https://thegrid.ai/askraja/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 07:31:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 07:35:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/askraja/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How This Magical 16-Lens Camera Will Actually Work]]></title>
+            <description><![CDATA[<article><h1>How This Magical 16-Lens Camera Will Actually Work</h1><p>The days of saying "cheese" are numbered. Soon, you may be saying "whoa" as you look into the multiple lenses of the unique Light L16. It's like having a staring contest with four spiders: 16 cameras, arranged in a seemingly haphazard fashion, peer back at you.</p><img src="http://www.wired.com/wp-content/uploads/2015/10/light-featured-1200x630.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/10/light-l16-camera/</link>
+            <guid isPermaLink="false">f108fe27-be68-4079-b474-6e150e311a66</guid>
+            <pubDate>Thu, 25 Feb 2016 07:34:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How the Apple/FBI Fight Risks the Whole U.S. Tech Industry]]></title>
             <description><![CDATA[<article><h1>How the Apple/FBI Fight Risks the Whole U.S. Tech Industry</h1><p>Create a FREE account to: Get eight free articles per month* Access to personalized content Save articles and create shareable folders in your personal HBR library Get 20% off your first order using code HBRORGREG3** *not including articles that are exclusively for Harvard Business Review magazine subscribers **does not include</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43c67e0106e82a28a0892b3d749454452f8b6c3e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.gatesnotes.com/Education/The-Best-Teacher-I-Never-Had</link>
             <guid isPermaLink="false">24295fd1-6d15-4472-a502-4c0a83526b4d</guid>
             <pubDate>Thu, 25 Feb 2016 06:51:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook starts Telecom Infra Project with Intel, Nokia, Deutsche Telekom, EE, Equinix, Globe, HCL, others]]></title>
-            <description><![CDATA[<article><h1>Facebook starts Telecom Infra Project with Intel, Nokia, Deutsche Telekom, EE, Equinix, Globe, HCL, others</h1><p>At the 2016 Mobile World Congress conference in Barcelona today, Facebook announced the formation of the Telecom Infra Project (TIP), an effort that resembles the Open Compute Project (OCP) that Facebook kicked off five years ago, but which is narrowly focused on the development of new telecommunications networking hardware.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f1312fcb7d7a5b392e6e4ec11e54b095ade7640.png"></article>]]></description>
-            <link>http://venturebeat.com/2016/02/21/facebook-starts-telecom-infra-project-with-intel-nokia-deutsche-telekom-ee-equinix-globe-hcl-others/</link>
-            <guid isPermaLink="false">27834b2c-703f-46dd-b679-e4074fa12b5f</guid>
-            <pubDate>Thu, 25 Feb 2016 06:45:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

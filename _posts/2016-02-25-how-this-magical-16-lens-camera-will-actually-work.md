@@ -1,10 +1,14 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.wired.com/2015/10/light-l16-camera/'
-inLanguage: en
-starred: false
+author:
+  - name: Tim Moynihan
+    url: 'http://www.wired.com/author/tim-moynihan/'
+    avatar: {}
+related: []
+publisher:
+  url: 'http://www.wired.com'
+  name: WIRED
+  favicon: 'http://www.wired.com/wp-content/themes/Phoenix/assets/images/favicon.ico'
+  domain: www.wired.com
 keywords:
   - sensor
   - cameras
@@ -17,23 +21,17 @@ keywords:
   - 150mm
   - light
 description: "The days of saying \"cheese\" are numbered. Soon, you may be saying \"whoa\" as you look into the multiple lenses of the unique Light L16. It's like having a staring contest with four spiders: 16 cameras, arranged in a seemingly haphazard fashion, peer back at you."
-datePublished: '2016-02-25T07:54:06.062Z'
-dateModified: '2016-02-25T07:53:39.583Z'
-author:
-  - name: Tim Moynihan
-    url: 'http://www.wired.com/author/tim-moynihan/'
-    avatar: {}
-related: []
+inLanguage: en
 app_links: []
+isBasedOnUrl: 'http://www.wired.com/2015/10/light-l16-camera/'
 title: How This Magical 16-Lens Camera Will Actually Work
+datePublished: '2016-02-25T07:56:36.335Z'
+dateModified: '2016-02-25T07:56:26.259Z'
 sourcePath: _posts/2016-02-25-how-this-magical-16-lens-camera-will-actually-work.md
 published: true
-authors: []
-publisher:
-  name: WIRED
-  domain: www.wired.com
-  url: 'http://www.wired.com'
-  favicon: 'http://www.wired.com/wp-content/themes/Phoenix/assets/images/favicon.ico'
+inFeed: true
+hasPage: false
+inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 

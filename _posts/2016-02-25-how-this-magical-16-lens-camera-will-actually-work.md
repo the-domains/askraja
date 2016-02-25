@@ -17,8 +17,8 @@ keywords:
   - 150mm
   - light
 description: "The days of saying \"cheese\" are numbered. Soon, you may be saying \"whoa\" as you look into the multiple lenses of the unique Light L16. It's like having a staring contest with four spiders: 16 cameras, arranged in a seemingly haphazard fashion, peer back at you."
-datePublished: '2016-02-25T07:50:23.347Z'
-dateModified: '2016-02-25T07:50:09.092Z'
+datePublished: '2016-02-25T07:54:06.062Z'
+dateModified: '2016-02-25T07:53:39.583Z'
 author:
   - name: Tim Moynihan
     url: 'http://www.wired.com/author/tim-moynihan/'

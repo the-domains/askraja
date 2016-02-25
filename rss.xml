@@ -4,13 +4,13 @@
         <description><![CDATA[hello_w0rld by @askraja]]></description>
         <link>https://thegrid.ai/askraja/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 07:01:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 07:05:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/askraja/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>to</p>]]></description>
-            <link>https://thegrid.ai/askraja/to/index.html</link>
-            <guid isPermaLink="false">0169437e-d639-4170-ba8d-f952b732a3b5</guid>
+            <title><![CDATA[The Best Books I Read in 2015]]></title>
+            <description><![CDATA[<article><h1>The Best Books I Read in 2015</h1><p>Bill Gates shares his list of best books he read in 2015: "Eradication" by Nancy Leys Stepan, "Thing Explainer" by Randall Munroe, "Sustainable Materials With Both Eyes Open" by Julian Allwood and Jonathan Cullen, "Mindset" by Carol Dweck, "Being Nixon" by Evan Thomas, and "The Road to Character" by David Brooks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67e1dc73f1bfdb0df753fb8e4a5c676cd948f2a8.jpg"></article>]]></description>
+            <link>https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2015</link>
+            <guid isPermaLink="false">4f11db50-5236-473c-a28e-dc3e0679ce2f</guid>
             <pubDate>Thu, 25 Feb 2016 07:01:01 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +67,6 @@
             <description><![CDATA[<article><h1>Descartes Labs raises $5M to make agricultural predictions with deep learning</h1><p>Descartes Labs, a startup with image recognition technology that can help companies answer questions related to agriculture, is announcing today a $5 million round of funding. The startup can work with satellite images to predict what will happen next. To do that, Descartes Labs depends on a type of artificial intelligence called deep learning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec5d7cddb0cad0edf7fe96acf66f44bc1b407194.jpg"></article>]]></description>
             <link>http://venturebeat.com/2015/11/17/descartes-labs-raises-5m-to-make-agricultural-predictions-with-deep-learning/</link>
             <guid isPermaLink="false">c54f9838-a6aa-4ecf-89d9-2221cb377ddf</guid>
-            <pubDate>Thu, 25 Feb 2016 06:45:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google's DeepMind AI group unveils health care ambitions]]></title>
-            <description><![CDATA[<article><h1>Google's DeepMind AI group unveils health care ambitions</h1><p>Google's DeepMind artificial intelligence (AI) group today unveiled a new industry-specific program called DeepMind Health. A new website for the division reveals that Google has been working with multiple health care organizations, including National Health Service and the Royal Free Hospital London in the United Kingdom.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eac904dd68a8b1d88bd4dc771c7f013284cec3bc.png"></article>]]></description>
-            <link>http://venturebeat.com/2016/02/24/googles-deepmind-ai-group-unveils-heath-care-ambitions/</link>
-            <guid isPermaLink="false">41a1eb76-bb37-49d5-8c30-e91a00bcf63b</guid>
             <pubDate>Thu, 25 Feb 2016 06:45:37 GMT</pubDate>
         </item>
     </channel>

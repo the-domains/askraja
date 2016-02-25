@@ -4,8 +4,22 @@
         <description><![CDATA[hello_w0rld by @askraja]]></description>
         <link>https://thegrid.ai/askraja/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 07:29:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 07:29:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/askraja/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Big-Bang Disruption]]></title>
+            <description><![CDATA[<article><h1>Big-Bang Disruption</h1><p>By now any well-read executive knows the basic playbook for saving a business from disruptive innovation. Nearly two decades of management research, beginning with Joseph L. Bower and Clayton M.</p><img src="https://hbr.org/resources/images/article_assets/hbr/1303/R1303B_A_LG.gif"></article>]]></description>
+            <link>https://hbr.org/2013/03/big-bang-disruption/</link>
+            <guid isPermaLink="false">c1695b10-ff4a-49d0-a069-e0ca47a703ec</guid>
+            <pubDate>Thu, 25 Feb 2016 07:28:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4 Big Industries And Their Next Generation Tech Disruptors]]></title>
+            <description><![CDATA[<article><h1>4 Big Industries And Their Next Generation Tech Disruptors</h1><p>If we can learn anything from the inaugural Next Billion-Dollar Startup List, it's that no industry is safe from the possibility, and reality, of disruption. Many of the companies on the List are tackling problems or inefficiencies in food delivery, lending, auto sales, or shopping, and most are stationed in [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3f6f4b51c9cfac3b1640414575b646f21075c82.jpg"></article>]]></description>
+            <link>http://www.forbes.com/sites/truebridge/2015/04/15/big-industries-and-their-tech-disruptors/#70824c5867c3</link>
+            <guid isPermaLink="false">f4b15d37-9d91-4c07-9f44-052cb45e688d</guid>
+            <pubDate>Thu, 25 Feb 2016 07:28:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A New Generation Of Tech Disruptors Is Thriving In Finland]]></title>
             <description><![CDATA[<article><h1>A New Generation Of Tech Disruptors Is Thriving In Finland</h1><p>From the shadows of Nokia and Rvia come new generation of Finnish tech entrepreneurs</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1af09fe36d8d903263860f6f84886d0dec15dca.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://venturebeat.com/2016/02/23/zynga-puts-its-san-francisco-headquarters-up-for-sale/</link>
             <guid isPermaLink="false">94e81875-cd0a-47e3-8f4a-94952d48aa27</guid>
             <pubDate>Thu, 25 Feb 2016 06:45:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jobs | Analytic Talent / AnalyticTalent.com]]></title>
-            <description><![CDATA[<article><h1>Jobs | Analytic Talent / AnalyticTalent.com</h1><p>'The Best in Big Data' Data Scientist, Analytics, Predictive Modeling and more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8512e52a5f1cb05fee86e36e4910a1e2024fb13c.png"></article>]]></description>
-            <link>http://www.analytictalent.com/</link>
-            <guid isPermaLink="false">c9d49d4b-9883-4d13-a638-6ebdaa31d862</guid>
-            <pubDate>Thu, 25 Feb 2016 06:45:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Descartes Labs raises $5M to make agricultural predictions with deep learning]]></title>
-            <description><![CDATA[<article><h1>Descartes Labs raises $5M to make agricultural predictions with deep learning</h1><p>Descartes Labs, a startup with image recognition technology that can help companies answer questions related to agriculture, is announcing today a $5 million round of funding. The startup can work with satellite images to predict what will happen next. To do that, Descartes Labs depends on a type of artificial intelligence called deep learning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec5d7cddb0cad0edf7fe96acf66f44bc1b407194.jpg"></article>]]></description>
-            <link>http://venturebeat.com/2015/11/17/descartes-labs-raises-5m-to-make-agricultural-predictions-with-deep-learning/</link>
-            <guid isPermaLink="false">c54f9838-a6aa-4ecf-89d9-2221cb377ddf</guid>
-            <pubDate>Thu, 25 Feb 2016 06:45:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
